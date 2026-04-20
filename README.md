@@ -49,7 +49,7 @@ cann-yolo26-atlas/
 
 ## Requirements
 
-This project is intended to run on a **Huawei Atlas** device with a local **CANN Toolkit** installation. Huawei’s Ascend documentation portal is the official entry point for CANN and Atlas-related manuals and setup references. ([昇腾社区][2])
+This project is intended to run on a **Huawei Atlas** device with a local **CANN Toolkit** installation. Huawei’s Ascend documentation portal is the official entry point for CANN and Atlas-related manuals and setup references. 
 
 Typical environment:
 
@@ -66,7 +66,7 @@ This project uses **YOLO26** weights from Ultralytics, for example:
 
 * `yolo26n.pt`
 
-Ultralytics documents YOLO26 as the latest edge-oriented YOLO family member with DFL removal and end-to-end NMS-free inference. ([Ultralytics Docs][1])
+Ultralytics documents YOLO26 as the latest edge-oriented YOLO family member with DFL removal and end-to-end NMS-free inference. 
 
 Typical export example on PC:
 
@@ -80,10 +80,10 @@ For validation / calibration experiments, you can use **COCO 2017 val**.
 
 References:
 
-* COCO official homepage: [https://cocodataset.org/](https://cocodataset.org/) ([cocodataset.org][3])
-* COCO val2017 zip: [http://images.cocodataset.org/zips/val2017.zip](http://images.cocodataset.org/zips/val2017.zip) ([Gist][4])
+* COCO official homepage: [https://cocodataset.org/](https://cocodataset.org/) 
+* COCO val2017 zip: [http://images.cocodataset.org/zips/val2017.zip](http://images.cocodataset.org/zips/val2017.zip) 
 
-Ultralytics’ COCO dataset page also summarizes that COCO val2017 contains 5K validation images. ([Ultralytics Docs][5])
+Ultralytics’ COCO dataset page also summarizes that COCO val2017 contains 5K validation images. 
 
 ## Build
 
