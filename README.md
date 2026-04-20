@@ -21,30 +21,7 @@ The project currently supports:
 - **video-file inference**
 - **USB camera inference**
 
-YOLO26 is an Ultralytics detector designed for efficient deployment, with end-to-end NMS-free inference and simplified export for edge hardware.
-
-## Paper
-
-YOLO26 paper:
-
-- [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](https://arxiv.org/pdf/2509.25164v5)
-
-The arXiv entry identifies the paper as `YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection`, posted in September 2025.
-
-## Features
-
-- YOLO26 inference on Atlas with **CANN / AscendCL**
-- **AIPP** preprocessing path
-- **C++ detection demo**
-- **C++ tracking demo**
-- input from **video file**
-- input from **USB webcam**
-- colorized visualization for detection / tracking
-- easy to extend toward **INT8**, **DVPP/VPC**, and realtime camera pipelines
-
 ## Repository Structure
-
-Current repository structure:
 
 ```text
 cann-yolo26-atlas/
@@ -56,22 +33,9 @@ cann-yolo26-atlas/
 │   └── main.cpp
 ├── .gitignore
 └── README.md
-````
-
-## Demo Preview
-
-Add your screenshots / GIFs here later.
-
-```text
-assets/
-├── detection_demo.gif
-├── tracking_demo.gif
-└── usb_camera_demo.gif
 ```
 
-Example section layout:
 
-```md
 ## Results
 
 ### Detection
