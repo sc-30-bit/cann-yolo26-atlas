@@ -1,10 +1,6 @@
 # CANN-YOLO26-Atlas
 
 <p align="center">
-  YOLO26 deployment, detection, and tracking on Huawei Atlas with CANN
-</p>
-
-<p align="center">
   <img alt="platform" src="https://img.shields.io/badge/Platform-Huawei%20Atlas-blue">
   <img alt="toolkit" src="https://img.shields.io/badge/Toolkit-CANN-orange">
   <img alt="language" src="https://img.shields.io/badge/C%2B%2B-17-brightgreen">
