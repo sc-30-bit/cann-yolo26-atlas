@@ -21,7 +21,7 @@ The project currently supports:
 - **video-file inference**
 - **USB camera inference**
 
-YOLO26 is an Ultralytics detector designed for efficient deployment, with end-to-end NMS-free inference and simplified export for edge hardware. :contentReference[oaicite:1]{index=1}
+YOLO26 is an Ultralytics detector designed for efficient deployment, with end-to-end NMS-free inference and simplified export for edge hardware.
 
 ## Paper
 
