@@ -57,7 +57,7 @@ cd CANN-CPP-DETECTION
 mkdir -p build
 cd build
 cmake ..
-make -j
+make -j4
 ```
 
 ### Tracking
@@ -67,7 +67,7 @@ cd CANN-CPP-TRACK
 mkdir -p build
 cd build
 cmake ..
-make -j
+make -j4
 ```
 
 ## Quick Start
