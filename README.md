@@ -1,1 +1,1 @@
-# cann-yolo26-atlas
+# CANN-YOLO26-Atlas
