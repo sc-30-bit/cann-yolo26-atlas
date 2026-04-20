@@ -35,18 +35,6 @@ cann-yolo26-atlas/
 └── README.md
 ```
 
-
-## Results
-
-### Detection
-![detection demo](assets/detection_demo.gif)
-
-### Tracking
-![tracking demo](assets/tracking_demo.gif)
-
-### USB Camera
-![usb camera demo](assets/usb_camera_demo.gif)
-
 ## Requirements
 
 This project is intended to run on a **Huawei Atlas** device with a local **CANN Toolkit** installation. Huawei’s Ascend documentation portal is the official entry point for CANN and Atlas-related manuals and setup references. 
@@ -59,31 +47,6 @@ Typical environment:
 * CMake
 * GCC / G++
 * Ubuntu-based runtime environment on device
-
-## Model Weights
-
-This project uses **YOLO26** weights from Ultralytics, for example:
-
-* `yolo26n.pt`
-
-Ultralytics documents YOLO26 as the latest edge-oriented YOLO family member with DFL removal and end-to-end NMS-free inference. 
-
-Typical export example on PC:
-
-```bash
-yolo export model=yolo26n.pt format=onnx imgsz=640 batch=1 simplify=True opset=13
-```
-
-## COCO Validation Reference
-
-For validation / calibration experiments, you can use **COCO 2017 val**.
-
-References:
-
-* COCO official homepage: [https://cocodataset.org/](https://cocodataset.org/) 
-* COCO val2017 zip: [http://images.cocodataset.org/zips/val2017.zip](http://images.cocodataset.org/zips/val2017.zip) 
-
-Ultralytics’ COCO dataset page also summarizes that COCO val2017 contains 5K validation images. 
 
 ## Build
 
