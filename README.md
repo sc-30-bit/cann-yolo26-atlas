@@ -46,7 +46,6 @@ cann-yolo26-atlas/
 
 ### USB Camera
 ![usb camera demo](assets/usb_camera_demo.gif)
-```
 
 ## Requirements
 
