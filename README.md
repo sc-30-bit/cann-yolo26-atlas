@@ -29,7 +29,7 @@ YOLO26 paper:
 
 - [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](https://arxiv.org/pdf/2509.25164v5)
 
-The arXiv entry identifies the paper as `YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection`, posted in September 2025. :contentReference[oaicite:2]{index=2}
+The arXiv entry identifies the paper as `YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection`, posted in September 2025.
 
 ## Features
 
