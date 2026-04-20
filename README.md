@@ -190,20 +190,10 @@ In progress / planned:
 * [ ] cleaner project modularization
 * [ ] INT8 deployment optimization
 * [ ] DVPP / VPC preprocessing
-* [ ] improved tracking module
-* [ ] official ByteTrack integration
-* [ ] trajectory visualization refinement
-* [ ] better camera pipeline for realtime deployment
-
-## TODO
-
-* [ ] split reusable inference utilities from `main.cpp`
 * [ ] add model conversion scripts
 * [ ] add AIPP config examples
 * [ ] add calibration dataset notes
 * [ ] add deployment screenshots / GIFs
-* [ ] add INT8 benchmark results
-* [ ] add USB camera benchmark results
-* [ ] add README in Chinese
+
 
 
