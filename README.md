@@ -206,28 +206,4 @@ In progress / planned:
 * [ ] add USB camera benchmark results
 * [ ] add README in Chinese
 
-## Notes
 
-This repository is currently focused on **practical deployment and iteration** rather than framework-level abstraction.
-
-The codebase is mainly used for:
-
-* model export verification
-* AIPP verification
-* Atlas-side C++ inference
-* detection / tracking experiments
-* realtime video and USB camera testing
-
-## Acknowledgements
-
-* Ultralytics YOLO26 documentation. ([Ultralytics Docs][1])
-* YOLO26 arXiv paper. ([arXiv][6])
-* Huawei Ascend / CANN documentation portal. ([昇腾社区][2])
-* COCO dataset resources. ([cocodataset.org][3])
-
-[1]: https://docs.ultralytics.com/models/yolo26/?utm_source=chatgpt.com "Ultralytics YOLO26"
-[2]: https://www.hiascend.com/en/document/?utm_source=chatgpt.com "Ascend Documentation-Atlas Community"
-[3]: https://cocodataset.org/?utm_source=chatgpt.com "COCO - Common Objects in Context"
-[4]: https://gist.github.com/mkocabas/a6177fc00315403d31572e17700d7fd9?utm_source=chatgpt.com "Download COCO dataset. Run under 'datasets' directory."
-[5]: https://docs.ultralytics.com/datasets/detect/coco/?utm_source=chatgpt.com "COCO Dataset"
-[6]: https://arxiv.org/abs/2509.25164?utm_source=chatgpt.com "YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection"
